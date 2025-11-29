@@ -14,6 +14,7 @@ ipython>=8.0.0
 # gemini api key
 You can get your api key
 https://aistudio.google.com/api-keys
+# in this I havent use api because it is unstable but you can test with your api key
 
 # Optional: For better date handling (already in pandas, but safe)
 python-dateutil>=2.8.0
