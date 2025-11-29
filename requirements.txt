@@ -11,5 +11,9 @@ plotly>=5.15.0
 # Jupyter / Colab Enhancements
 ipython>=8.0.0
 
+# gemini api key
+You can get your api key
+https://aistudio.google.com/api-keys
+
 # Optional: For better date handling (already in pandas, but safe)
 python-dateutil>=2.8.0
