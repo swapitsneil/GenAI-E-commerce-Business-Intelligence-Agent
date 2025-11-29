@@ -63,10 +63,11 @@ Libraries
 ```
 GenAI-Ecommerce-BI-Agent/
 │
-├── ecomai.ipynb                # Main Jupyter Notebook (GenAI + AI agent)
-├── ecom.ipynb                  # EDA 
-├── ecomcleaned.csv             # cleaned dataset
-├── README.md                   # Project documentation
+├── ecomai.ipynb                        # Main Jupyter Notebook (GenAI + AI agent)
+├── ecom.ipynb                          # EDA 
+├── ecomcleaned.csv                     # cleaned dataset
+├── GenAI E-commerce dashboard.pbix     # powerbi dashboard
+├── README.md                           # Project documentation
 └── requirements.txt
 ```
 
