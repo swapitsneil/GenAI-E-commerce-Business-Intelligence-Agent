@@ -12,7 +12,7 @@ plotly>=5.15.0
 ipython>=8.0.0
 
 # gemini api key
-You can get your api key
+# You can get your api key
 https://aistudio.google.com/api-keys
 # in this I havent used api because it is unstable but you can test with your api key
 
