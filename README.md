@@ -120,6 +120,13 @@ Run notebook:
 
     jupyter notebook ecomai.ipynb
 
+## Results (Real Numbers)
+
+Total Revenue: $8.2M+
+UK Dominance: 92% of sales
+Peak Month: December 2011
+Top International: Netherlands, Germany, France
+
 ## 🎯 What I Learnt from This Project
 
 Creating a full end-to-end GenAI analytics pipeline
