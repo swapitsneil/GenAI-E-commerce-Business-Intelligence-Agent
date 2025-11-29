@@ -60,6 +60,7 @@ Libraries
 - SQLite
 
 ## 📁 Project Structure
+```
 GenAI-Ecommerce-BI-Agent/
 │
 ├── ecomai.ipynb                # Main Jupyter Notebook (GenAI + AI agent)
@@ -67,6 +68,7 @@ GenAI-Ecommerce-BI-Agent/
 ├── ecomcleaned.csv             # cleaned dataset
 ├── README.md                   # Project documentation
 └── requirements.txt
+```
 
 ## How It Works
 
